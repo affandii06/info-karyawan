@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423885395809",
+    "project_id": "info-karyawan",
+    "storage_bucket": "info-karyawan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423885395809:android:07ed9674ac5a7db2095720",
+        "android_client_info": {
+          "package_name": "com.fandi.infokaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423885395809-rtu06e4mkumepu9ivi11deda8724r38h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2MO5nZB_pZGg88UjI48PmqGiMglvgqwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423885395809-rtu06e4mkumepu9ivi11deda8724r38h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
